@@ -1,0 +1,103 @@
+/* Gamecard.module.css */
+.relative {
+    position: relative;
+  }
+  
+  .group {
+    position: relative;
+    display: block;
+  }
+
+  
+  .rounded-lg {
+    border-radius: 8px;
+  }
+  
+  .overflow-hidden {
+    overflow: hidden;
+  }
+  
+  .shadow-lg {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .block {
+    display: block;
+  }
+  
+  .w-full {
+    width: 100%;
+  }
+  
+  .h-full {
+    height: 100%;
+  }
+  
+  .object-cover {
+    object-fit: cover; /* Asegura que la imagen se ajuste al contenedor sin distorsionarse */
+  }
+  
+  .absolute {
+    position: absolute;
+  }
+  
+  .inset-0 {
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+  
+  .bg-gray-900 {
+    background-color: rgba(0, 0, 0, 0.7);
+  }
+  
+  .bg-opacity-50 {
+    opacity: 0.5;
+  }
+  
+  .flex {
+    display: flex;
+  }
+  
+  .items-center {
+    align-items: center;
+  }
+  
+  .justify-center {
+    justify-content: center;
+  }
+  
+  .opacity-0 {
+    opacity: 0;
+  }
+  
+  .group-hover\:opacity-100:hover {
+    opacity: 1;
+  }
+  
+  .transition-opacity {
+    transition: opacity 0.3s ease;
+  }
+  
+  .text-white {
+    color: white;
+  }
+  
+  .text-xl {
+    font-size: 1.25rem;
+  }
+  
+  .font-bold {
+    font-weight: bold;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  .px-2 {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+  }
+  

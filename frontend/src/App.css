@@ -1,0 +1,12 @@
+main {
+    background-image: url('../public/images/background.jpeg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+main .container {
+    max-width: 1300px;
+    width: 100%;
+}

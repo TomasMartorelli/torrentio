@@ -1,0 +1,13 @@
+.category-dropdown {
+    position: absolute;
+    background-color: #1E3A8A; /* Azul oscuro para fondo */
+    z-index: 50; /* Asegurar que esté por encima */
+    width: 12rem; /* 48px */
+    border-radius: 0.375rem; /* Rounded corners */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Suave sombra */
+  }
+  
+  .category-dropdown li a:hover {
+    color: white;
+  }
+  

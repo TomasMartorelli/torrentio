@@ -1,0 +1,21 @@
+.carousel-container {
+  width: 100%; /* Asegura que el contenedor ocupe todo el espacio disponible */
+  padding: 20px;
+}
+
+.swiper-slide {
+  display: flex;
+  justify-content: center; /* Alinea las tarjetas en el centro */
+}
+
+.game-card {
+  width: 100%;
+  max-width: 290px; /* Establece el ancho máximo de las tarjetas */
+  margin: 0 auto;
+  border-radius: 10px;
+  transition: transform 0.3s ease;
+}
+
+.game-card:hover {
+  transform: scale(1.05); /* Agrega un efecto hover */
+}
